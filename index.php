@@ -1,4 +1,5 @@
 <?php
-		//Permulaan awal
-//Penambahan garis informasi
+//Ini halaman php
+//Belajar github pertemuan pertama
+//Saya menambahan garis script , html
 		?>
